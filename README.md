@@ -1,4 +1,4 @@
-# Face Swap Application - 3H-ACKATHON (GDSC IIT Indore)  
+# 3H-ACKATHON
 
 ## Team: 410 CODERS  
 **Members:**  
