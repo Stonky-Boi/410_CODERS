@@ -1,4 +1,4 @@
-# Face Swap Application - GDSC IIT Indore Hackathon 2025  
+# Face Swap Application - 3H-ACKATHON (GDSC IIT Indore)  
 
 ## Team: 410 CODERS  
 **Members:**  
@@ -8,7 +8,7 @@
 
 ## Problem Statement  
 
-We participated in the internal hackathon organized by **GDSC (Google Developer Student Club) IIT Indore** and selected **Problem Statement 14: Face Swap**.  
+We participated in **3H-ACKATHON**, an internal hackathon organized by **GDSC (Google Developer Student Club) IIT Indore**, and selected **Problem Statement 14: Face Swap**.  
 
 ### Task Description  
 Develop an application that can:  
