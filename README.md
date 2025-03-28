@@ -1,10 +1,12 @@
-# 3H-ACKATHON
+# Face Swap Application - 3H-ACKATHON (GDSC IIT Indore)  
 
 ## Team: 410 CODERS  
 **Members:**  
 - Arnav Kumar  
 - Naman Shetty  
 - Gopesh Srinivasan  
+
+**Tagline:** *Hacking the Future*  
 
 ## Problem Statement  
 
@@ -57,4 +59,7 @@ You can also try the live demo here:
 ## Usage  
 1. Upload a **source face** and a **target image**.  
 2. Click **Run** to swap the faces.  
-3. The output will display the target image with the swapped face.
+3. The output will display the target image with the swapped face.  
+
+---  
+🚀 **410 CODERS - Hacking the Future** 🚀  
