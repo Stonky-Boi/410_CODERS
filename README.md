@@ -1,4 +1,7 @@
-# Face Swap Application - 3H-ACKATHON (GDSC IIT Indore)  
+# Face Swap Application - 3H-ACKATHON (GDSC IIT Indore)
+![GitHub Created At](https://img.shields.io/github/created-at/Stonky-Boi/GDSC_Hackathon_410CODERS)
+![GitHub contributors](https://img.shields.io/github/contributors/Stonky-Boi/GDSC_Hackathon_410CODERS)
+![GitHub License](https://img.shields.io/github/license/Stonky-Boi/GDSC_Hackathon_410CODERS)
 
 ## Team: 410 CODERS  
 **Members:**  
