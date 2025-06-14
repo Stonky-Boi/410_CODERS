@@ -1,7 +1,7 @@
-# Face Swap Application - 3H-ACKATHON (GDSC IIT Indore)
-![GitHub Created At](https://img.shields.io/github/created-at/Stonky-Boi/GDSC_Hackathon_410CODERS)
-![GitHub contributors](https://img.shields.io/github/contributors/Stonky-Boi/GDSC_Hackathon_410CODERS)
-![GitHub License](https://img.shields.io/github/license/Stonky-Boi/GDSC_Hackathon_410CODERS)
+# Face Swap Application
+![GitHub Created At](https://img.shields.io/github/created-at/Stonky-Boi/410_CODERS)
+![GitHub contributors](https://img.shields.io/github/contributors/Stonky-Boi/410_CODERS)
+![GitHub License](https://img.shields.io/github/license/Stonky-Boi/410_CODERS)
 
 ## Team: 410 CODERS  
 **Members:**  
@@ -54,7 +54,7 @@ The application uses **Dlib's facial landmark detector** and **OpenCV's image pr
 
 ## Running the Application  
 The main implementation is available in our Jupyter Notebook on GitHub:  
-[🔗 410_Coders_2025.ipynb](https://github.com/Stonky-Boi/GDSC_Hackathon_410CODERS/blob/main/410_Coders_2025.ipynb)  
+[🔗 410_Coders_2025.ipynb](https://github.com/Stonky-Boi/410_CODERS/blob/main/410_Coders_2025.ipynb)  
 
 You can also try the live demo here:  
 [🌐 Face Swap App](https://d4bcc4aadcb4ae815d.gradio.live/)  
